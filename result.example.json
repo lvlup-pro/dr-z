@@ -1,0 +1,62 @@
+{
+    "Control panel": {
+        "nodes": [
+            {
+                "hostid": "1111",
+                "name": "example.com",
+                "country": "pl",
+                "city": "Olsztyn",
+                "dc": "SDC",
+                "online": true
+            }
+        ]
+    },
+    "VPS": {
+        "nodes": [
+            {
+                "hostid": "1122",
+                "name": "n9000.example.com",
+                "country": "pl",
+                "city": "Olsztyn",
+                "dc": "SDC",
+                "online": true
+            },
+            {
+                "hostid": "1123",
+                "name": "n1.example.com",
+                "country": "pl",
+                "city": "Olsztyn",
+                "dc": "SDC",
+                "online": true
+            }
+        ]
+    },
+    "Voice servers": {
+        "nodes": [
+            {
+                "hostid": "1134",
+                "name": "v1.example.com",
+                "country": "fr",
+                "city": "Roubaix",
+                "dc": "OVH RBX-3",
+                "online": true
+            },
+            {
+                "hostid": "1135",
+                "name": "v2.example.com",
+                "country": "pl",
+                "city": "Olsztyn",
+                "dc": "SDC",
+                "online": true
+            },
+            {
+                "hostid": "1136",
+                "name": "v3.example.com",
+                "country": "fr",
+                "city": "Roubaix",
+                "dc": "OVH RBX-2",
+                "online": false
+            }
+        ]
+    }
+}

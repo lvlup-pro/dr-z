@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "59822acc6659a6535a3b83c40e715e85",
+    "packages": [
+        {
+            "name": "confirm-it-solutions/php-zabbix-api",
+            "version": "v2.4.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/confirm-it-solutions/PhpZabbixApi.git",
+                "reference": "1e9affbd5e3d693efe3950c6619f9f121f448891"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/confirm-it-solutions/PhpZabbixApi/zipball/1e9affbd5e3d693efe3950c6619f9f121f448891",
+                "reference": "1e9affbd5e3d693efe3950c6619f9f121f448891",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "ZabbixApi": "build"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Dominique Barton",
+                    "email": "dbarton@confirm.ch",
+                    "homepage": "http://www.confirm.ch",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PhpZabbixApi library",
+            "homepage": "http://github.com/confirm-it-solutions/PhpZabbixApi",
+            "keywords": [
+                "api",
+                "zabbix"
+            ],
+            "time": "2015-06-03 14:40:35"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
